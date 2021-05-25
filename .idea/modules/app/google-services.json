@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361359598266",
+    "firebase_url": "https://apitquizzer.firebaseio.com",
+    "project_id": "apitquizzer",
+    "storage_bucket": "apitquizzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361359598266:android:6f88ef37ee198152119883",
+        "android_client_info": {
+          "package_name": "com.shivam.apitquizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361359598266-74co3tc1st2hfu8btd90i0kfpl81qtd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.apitquizzer",
+            "certificate_hash": "be992ca5178f1f7dd7f0f4e50fe0d72ff8ba5755"
+          }
+        },
+        {
+          "client_id": "361359598266-p2kd3kpims4upltbeokkm75fpmrl4hqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54fMPbSenVtMLJzYFI3_6WZqYyMYEty0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361359598266-p2kd3kpims4upltbeokkm75fpmrl4hqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
